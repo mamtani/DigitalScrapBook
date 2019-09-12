@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScrapBook</string>
+    <string name="dialog_save_message">User has been registered!</string>
+    <string name="dialog_user_exists">User is already registered!</string>
+    <string name="okay">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_save_scrap_message">Scrap is saved!</string>
+    <string name="dialog_logout_message">Are you sure, you want to logout?</string>
+    <string name="dialog_register_message">The email address and password that you\'ve entered doesn\'t match any account. Sign up for an account.</string>
+    <string name="dialog_delete_scrap_message">Are you sure, you want to delete this scrap?</string>
+    <string name="default_channel">Default channel</string>
+</resources>
